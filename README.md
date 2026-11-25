@@ -1,4 +1,4 @@
-# NexusResearch AI (`agentic-research-workflow`)
+# NexusResearch AI (`nexus-research-ai`)
 
 > **Multi-agent research and automation platform** built with LangGraph, Model Context Protocol (MCP), FastAPI, Streamlit, and PostgreSQL/SQLite checkpointing.
 
